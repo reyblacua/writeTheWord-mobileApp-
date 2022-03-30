@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">writeTheWord</string>
+    <string name="aciertos">Aciertos: 0</string>
+    <string name="reset">Reset</string>
+    <string name="start">Start</string>
+    <string name="congrats">Congratulations</string>
+    <string name="score">Your score is:</string>
+    <string name="back">Go back</string>
+
+</resources>
